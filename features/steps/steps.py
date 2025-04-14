@@ -1,6 +1,6 @@
 """den synkrona versionen av Playwright inte fungerar bra i asynkrona miljöer som Behave,
 medan den asynkrona versionen gör det. Eftersom Behave också kan köra asynkront så fungerar
-koden när du använder async och await.
+koden när jag använder async och await.
 """
 
 
